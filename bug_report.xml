@@ -1,1 +1,20 @@
-
+<bug_report>
+           <Summary>Some_bug</Summary>
+           <Project>Name</Project>
+           <Component>Part_1</Component>
+           <Version>1.0</Version>
+           <Severity>Blocker</Severity>
+           <Priority>High</Priority>
+           <Status>Open</Status>
+           <Author>QA_Engineer_Name</Author>
+           <Assigned_To>Developer_Name</Assigned_To>
+           <Environment>Windows XP</Environment>
+           <Environment>Mozilla Firefox 3.3</Environment>
+           <Environment>oursite.com</Environment>
+           <Steps_to_Reproduce>tep_1</Steps_to_Reproduce>
+           <Steps_to_Reproduce>step_2</Steps_to_Reproduce>
+           <Steps_to_Reproduce>step_3</Steps_to_Reproduce>
+           <Result>Some_result</Result>
+           <Expected_Result>Exp_Result</Expected_Result>
+           <Attachment>test_1.png</Attachment>
+</bug_report>
